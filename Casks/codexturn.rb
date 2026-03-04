@@ -1,6 +1,6 @@
 cask "codexturn" do
-  version "1.0.1"
-  sha256 "8329f9fd221b576712ba9247e4ac58e57e37293a8e06b01c0f4bb14971b265a1"
+  version "1.0.2"
+  sha256 "6647f0f24a989022a11195c55fa1a004ba03ece91793fb5ca2f5e7252dfb949e"
 
   url "https://github.com/hosmelq/codex-turn/releases/download/v#{version}/CodexTurn-#{version}.dmg"
   name "CodexTurn"
